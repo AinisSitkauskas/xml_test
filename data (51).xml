@@ -1,0 +1,59 @@
+<product>
+	<category-id>67</category-id>
+	<category-name>
+		<![CDATA[ LK testas ]]>
+	</category-name>
+	<title>
+		<![CDATA[ Testas ]]>
+	</title>
+	<long-description>
+		<![CDATA[ <div><div><span>testas</span><br /></div><div>testas</div></div> ]]>
+	</long-description>
+	<manufacturer-name>
+		<![CDATA[ Testas ]]>
+	</manufacturer-name>
+	<manufacturer-address>
+		<![CDATA[ Testas ]]>
+	</manufacturer-address>
+	<manufacturer-email>
+		<![CDATA[ testas@pigu.lt ]]>
+	</manufacturer-email>
+	<representative-name>
+		<![CDATA[ Testas ]]>
+	</representative-name>
+	<representative-address>
+		<![CDATA[ Testas ]]>
+	</representative-address>
+	<representative-email>
+		<![CDATA[ testas@pigu.lt ]]>
+	</representative-email>
+	<colours>
+		<colour>
+			<colour-title/>
+			<images>
+				<image>
+					<url>https://1000logos.net/wp-content/uploads/2017/05/Pepsi-logo.png</url>
+				</image>
+			</images>
+			<modifications>
+				<modification>
+					<modification-title/>
+					<weight>1.2</weight>
+					<length>0.2</length>
+					<height>0.1</height>
+					<width>1.2</width>
+					<attributes>
+						<barcodes>
+							<barcode>
+								<![CDATA[ 7776545655896]]>
+							</barcode>
+						</barcodes>
+						<supplier-code>
+							<![CDATA[ opotest589611 ]]>
+						</supplier-code>
+					</attributes>
+				</modification>
+			</modifications>
+		</colour>
+	</colours>
+</product>
