@@ -1,0 +1,41 @@
+<products>
+	<product>
+		<category-id>14870</category-id>
+		<category-name>
+			<![CDATA[ Tampyklės ir treniruočių diržai   ]]>
+		</category-name>
+		<title>
+			<![CDATA[ Testas ]]>
+		</title>
+		<long-description>
+			<![CDATA[ <div><div><span>Testas</div></div> ]]>
+		</long-description>
+		<colours>
+			<colour>
+				<images>
+					<image>
+						<url>http://image.server.lt/?id=10</url>
+					</image>
+				</images>
+				<modifications>
+					<modification>
+						<weight>1.2</weight>
+						<length>0.2</length>
+						<height>0.1</height>
+						<width>1.2</width>
+						<attributes>
+							<barcodes>
+								<barcode>
+									<![CDATA[  8595153690717 ]]>
+								</barcode>
+							</barcodes>
+							<supplier-code>
+								<![CDATA[ MET-260222 ]]>
+							</supplier-code>
+						</attributes>
+					</modification>
+				</modifications>
+			</colour>
+		</colours>
+	</product>
+</products>
