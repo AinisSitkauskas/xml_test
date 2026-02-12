@@ -1,0 +1,41 @@
+<products>
+	<product>
+		<category-id>15187</category-id>
+		<category-name>
+			<![CDATA[ Kamuolių pompos ir adatos   ]]>
+		</category-name>
+		<title>
+			<![CDATA[ Testas ]]>
+		</title>
+		<long-description>
+			<![CDATA[ <div><div><span>Testas</div></div> ]]>
+		</long-description>
+		<colours>
+			<colour>
+				<images>
+					<image>
+						<url>http://image.server.lt/?id=10</url>
+					</image>
+				</images>
+				<modifications>
+					<modification>
+						<weight>1.2</weight>
+						<length>0.2</length>
+						<height>0.1</height>
+						<width>1.2</width>
+						<attributes>
+							<barcodes>
+								<barcode>
+									<![CDATA[  4905741990244 ]]>
+								</barcode>
+							</barcodes>
+							<supplier-code>
+								<![CDATA[ MET-278571 ]]>
+							</supplier-code>
+						</attributes>
+					</modification>
+				</modifications>
+			</colour>
+		</colours>
+	</product>
+</products>
